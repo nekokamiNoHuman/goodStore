@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goodStore/static/css/main.19393e92.chunk.css",
-    "main.js": "/goodStore/static/js/main.52de7e37.chunk.js",
-    "main.js.map": "/goodStore/static/js/main.52de7e37.chunk.js.map",
+    "main.js": "/goodStore/static/js/main.5e7d34f7.chunk.js",
+    "main.js.map": "/goodStore/static/js/main.5e7d34f7.chunk.js.map",
     "runtime~main.js": "/goodStore/static/js/runtime~main.b1129cef.js",
     "runtime~main.js.map": "/goodStore/static/js/runtime~main.b1129cef.js.map",
-    "static/js/2.28534e15.chunk.js": "/goodStore/static/js/2.28534e15.chunk.js",
-    "static/js/2.28534e15.chunk.js.map": "/goodStore/static/js/2.28534e15.chunk.js.map",
+    "static/js/2.5f5becd7.chunk.js": "/goodStore/static/js/2.5f5becd7.chunk.js",
+    "static/js/2.5f5becd7.chunk.js.map": "/goodStore/static/js/2.5f5becd7.chunk.js.map",
     "index.html": "/goodStore/index.html",
-    "precache-manifest.5018d6069912a41587f942a2033b0996.js": "/goodStore/precache-manifest.5018d6069912a41587f942a2033b0996.js",
+    "precache-manifest.69d09694591dc715509d1e862eebd451.js": "/goodStore/precache-manifest.69d09694591dc715509d1e862eebd451.js",
     "service-worker.js": "/goodStore/service-worker.js",
     "static/css/main.19393e92.chunk.css.map": "/goodStore/static/css/main.19393e92.chunk.css.map",
     "static/media/logo.svg": "/goodStore/static/media/logo.5d5d9eef.svg"
